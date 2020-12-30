@@ -1,2 +1,2 @@
-# user-agent-parser
+# User-Agent Parser
 An User-Agent parser.
